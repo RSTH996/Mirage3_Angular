@@ -6,6 +6,7 @@ This page is focus on the history of the Dassault Mirage 3
 
  
  Picture files:
+ 
 -----------------public/img/
 
 ----------------------------Inicio
@@ -19,6 +20,7 @@ This page is focus on the history of the Dassault Mirage 3
 ----------------------------Curiosidades
 
  Devolment files:
+ 
 -----------------src/app/Componenets/
 
 -------------------------------------Datos 
