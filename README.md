@@ -6,17 +6,17 @@ This page is focus on the history of the Dassault Mirage 3
 
  
  Picture files:
-                public/img/
-                            Inicio
-                            avance
-                            Combate            
-                            Jubilacion
-                            Curiosidades
+-----------------public/img/
+----------------------------Inicio
+----------------------------avance
+----------------------------Combate            
+----------------------------Jubilacion
+----------------------------Curiosidades
 
  Devolment files:
-                src/app/Componenets/
-                                    Datos 
-                                    Navbar
-                                    Index/
-                                          css
-                                    Footer
+-----------------src/app/Componenets/
+-------------------------------------Datos 
+-------------------------------------Navbar
+-------------------------------------Index/
+-------------------------------------------css
+-------------------------------------Footer
